@@ -1,0 +1,1 @@
+## joın ile tablo birleştirme
